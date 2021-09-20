@@ -1,0 +1,19 @@
+{
+  "name": "nft-art-generator-engine",
+  "version": "1.0.0",
+  "description": "NFT Art Generator Engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/george-shammar/NFT-Art-Generator-Engine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/george-shammar/NFT-Art-Generator-Engine/issues"
+  },
+  "homepage": "https://github.com/george-shammar/NFT-Art-Generator-Engine#readme"
+}
