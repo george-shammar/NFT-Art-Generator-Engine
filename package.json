@@ -18,6 +18,7 @@
   "homepage": "https://github.com/george-shammar/NFT-Art-Generator-Engine#readme",
   "dependencies": {
     "canvas": "^2.8.0",
+    "node-pre-gyp": "^0.17.0",
     "sha1": "^1.1.1"
   }
 }
